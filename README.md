@@ -1,0 +1,1 @@
+# sql.quries.for.data_mining
